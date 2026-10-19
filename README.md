@@ -55,3 +55,15 @@ cd ecommerce-issue-resolver-agent
 
 # 2. 패키지 설치
 npm install
+```
+
+## 🗺 Roadmap
+[ ] Phase 1: Jira API 연동 및 RAG 기반 에러 티켓 분류 모델 구축
+
+[ ] Phase 2: 시나리오 1 (가이드 댓글 작성 및 자동 Close) 파이프라인 완성
+
+[ ] Phase 3: 시나리오 2 (GitHub API 연동, 코드 분석 및 PR 자동 생성) 구현
+
+[ ] Phase 4: 시나리오 3 (쇼핑몰 문의 분기 및 Human-in-the-loop) 적용
+
+[ ] Phase 5: GitHub Actions 연동 테스트 및 배포 자동화
